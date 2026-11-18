@@ -1,10 +1,29 @@
-/* The template's placeholder stylesheet.
-   Replace it with the style.css from your homepage Pen. */
-
 body {
-  font-family: system-ui, sans-serif;
-  line-height: 1.5;
-  max-width: 640px;
-  margin: 48px auto;
-  padding: 0 24px;
+  background-color: ivory;
+  font-family: "Work Sans", sans-serif;
+}
+
+h1 {
+  font-family: "Playfair Display", serif;
+  color: teal;
+}
+
+h2{
+  color: crimson;
+}
+
+p{
+  color: #333333;
+}
+
+img {
+  width: 100%;
+}
+
+.done {
+  background-color: lightgreen;
+}
+
+#week-2 {
+  font-size: 20px;
 }
