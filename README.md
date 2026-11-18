@@ -1,6 +1,6 @@
-# DESN 368 portfolio
+# DESN 368 portfolio · Paul Saini
 
-**Live site:** `https://YOUR-bsaini.art.github.io/DSN368-Portfolio/` https://positive-morning-buffalo.codepen.app
+**Live site:** https://bsaini-art.github.io/DSN368-Portfolio/ https://positive-morning-buffalo.codepen.app
 
 This repository holds your homepage and every project it links to. CodePen takes a deployed Pen offline when a PRO plan ends, so anything your portfolio links to has to live here before the quarter ends.
 
